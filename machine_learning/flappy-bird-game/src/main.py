@@ -1,3 +1,4 @@
+import utils.session
 import pygame
 from game import Game
 
